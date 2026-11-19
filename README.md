@@ -10,9 +10,11 @@ int main() {
 ## Programmin Languages that I know:
 ![Lua](https://img.shields.io/badge/Lua-black?style=flat&color=00007D)
 ![C++](https://img.shields.io/badge/C++-purple)
-![Java](https://img.shields.io/badge/Java-white)
 ![JavaScript](https://img.shields.io/badge/JS-red)
 ![Rust](https://img.shields.io/badge/Rust-orange)
+![Java](https://img.shields.io/badge/Java-orange)
+![C](https://img.shields.io/badge/C-grey)
+
 
 <br/><p align="center">
 <a href="https://github.com/hcrdso">
