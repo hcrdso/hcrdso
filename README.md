@@ -12,7 +12,7 @@ int main() {
 ![C++](https://img.shields.io/badge/C++-purple)
 ![JavaScript](https://img.shields.io/badge/JS-red)
 ![Rust](https://img.shields.io/badge/Rust-orange)
-![Java](https://img.shields.io/badge/Java-orange)
+![Java](https://img.shields.io/badge/Java-yellow)
 ![C](https://img.shields.io/badge/C-grey)
 
 
